@@ -3,7 +3,7 @@
 - 👀 I’m interested in joining the FinTech community (domain details pending, but ESG investing has always been an interest and helping with that definitely appeals to me) and just contributing to the collective well-being.
 - 🌱 I’m currently learning via the UMN boot camp.
 - 💞️ I’m looking to collaborate on TBD
-- 
+- Mouse computing was never my favorite, have always been a keyboard enthusiast, so getting back to the command line is bliss.
 
 <!---
 dcndn4/dcndn4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
