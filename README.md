@@ -8,4 +8,4 @@
 - Mouse computing was never my favorite, have always been a keyboard enthusiast, so getting back to the command line is bliss (also, film by that name - highly recommend, but very difficult).
 - Led Zeppelin over Rolling Stones, 'Zen and the Art of Motorcycle Maintenance' by Robert Pirsig, and the Mercedez Benz song.
 - Acknowledgements: Ada Lovelace, Grace Hopper, Katherine Johnson, Dorothy Vaughan, Mary Jackson and all the other West Area Computers, Mileva Marić, the women code breakers of Bletchley Park, Joanna Hoffman, Susan Kare, and the "Code like a Girl" team. Also, Katie Stokes and all my other ancestors, and many more. 
--I won't ever work in a state or for a company based in a state that has an SB8-type law currently in place. I'd also like to never work in a state or for a company based in a state that ever has had an SB8-type law previously on the books. 
+- I won't ever work in a state or for a company based in a state that has an SB8-type law currently in place. I'd also like to never work in a state or for a company based in a state that ever has had an SB8-type law previously on the books. 
